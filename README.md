@@ -1,4 +1,4 @@
-# electron-quick-start
+# MCB Manager
 
 **Clone and run for a quick way to see an Electron in action.**
 
